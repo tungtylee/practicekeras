@@ -10,7 +10,7 @@
 * model.load_wegiths
 * model.get_weights
 
-## Linear Regression using Multilevel Perceptron
+## Linear Regression using Multilayer Perceptron
 * Exmaple: gradx_mlp
 
 The gradx_mlp has a two layer network for performing gradient on three pixels.
